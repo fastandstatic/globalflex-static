@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('https://globalflex.co/wp-content/themes/fortuna-child/fonts/HelveticaNeue-Bold.woff2') format('woff2'),
+        url('https://globalflex.co/wp-content/themes/fortuna-child/fonts/HelveticaNeue-Bold.woff') format('woff'),
+        url('https://globalflex.co/wp-content/themes/fortuna-child/fonts/HelveticaNeue-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('https://globalflex.co/wp-content/themes/fortuna-child/fonts/HelveticaNeue-Medium.woff2') format('woff2'),
+        url('https://globalflex.co/wp-content/themes/fortuna-child/fonts/HelveticaNeue-Medium.woff') format('woff'),
+        url('https://globalflex.co/wp-content/themes/fortuna-child/fonts/HelveticaNeue-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('https://globalflex.co/wp-content/themes/fortuna-child/fonts/HelveticaNeue-Black.woff2') format('woff2'),
+        url('https://globalflex.co/wp-content/themes/fortuna-child/fonts/HelveticaNeue-Black.woff') format('woff'),
+        url('https://globalflex.co/wp-content/themes/fortuna-child/fonts/HelveticaNeue-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('https://globalflex.co/wp-content/themes/fortuna-child/fonts/HelveticaNeue-Thin.woff2') format('woff2'),
+        url('https://globalflex.co/wp-content/themes/fortuna-child/fonts/HelveticaNeue-Thin.woff') format('woff'),
+        url('https://globalflex.co/wp-content/themes/fortuna-child/fonts/HelveticaNeue-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('https://globalflex.co/wp-content/themes/fortuna-child/fonts/HelveticaNeue-Roman.woff2') format('woff2'),
+        url('https://globalflex.co/wp-content/themes/fortuna-child/fonts/HelveticaNeue-Roman.woff') format('woff'),
+        url('https://globalflex.co/wp-content/themes/fortuna-child/fonts/HelveticaNeue-Roman.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Helvetica Neue';
+    src: url('https://globalflex.co/wp-content/themes/fortuna-child/fonts/HelveticaNeue-Light.woff2') format('woff2'),
+        url('https://globalflex.co/wp-content/themes/fortuna-child/fonts/HelveticaNeue-Light.woff') format('woff'),
+        url('https://globalflex.co/wp-content/themes/fortuna-child/fonts/HelveticaNeue-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
