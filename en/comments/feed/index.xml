@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments for Globalflex	</title>
-	<atom:link href="/en/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/en/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description>Somos expertos e innovadores en  impresión flexografica, principalmente en impresión de etiquetas adhesivas y termoencogibles</description>
-	<lastBuildDate>Mon, 10 Apr 2023 14:01:30 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 Apr 2023 16:09:36 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
