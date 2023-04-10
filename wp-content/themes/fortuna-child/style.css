@@ -11,7 +11,7 @@
 
 /* Theme customization starts here */
 
-@import url("/wp-content/themes/fortuna-child/fonts/globalflex_fonts.css");
+@import url("./fonts/globalflex_fonts.css");
 
 
 html body, h1, h2, h3, h4, h5, h6, p, li, strong, quote, a {
