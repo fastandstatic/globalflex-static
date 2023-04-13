@@ -108,7 +108,8 @@ var nfRecaptcha = Marionette.Object.extend( {
 
 			if ( opts.size === 'invisible' ) {
 				try {
-					grecaptcha.execute( grecaptchaID );
+					nf_reprocess_recaptcha( grecaptchaID  );
+					setInterval(nf_reprocess_recaptcha, 110000, grecaptchaID);
 				} catch( e ){
 					console.log( 'Notice: Error trying to execute grecaptcha.' );
 				}
@@ -119,6 +120,10 @@ var nfRecaptcha = Marionette.Object.extend( {
 
 var nfRenderRecaptcha = function() {
 	new nfRecaptcha();
+}
+
+const nf_reprocess_recaptcha = ( grecaptchaID ) => {
+	grecaptcha.execute( grecaptchaID );
 }
 
 const nf_check_recaptcha_consent = () => {
