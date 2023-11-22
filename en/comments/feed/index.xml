@@ -11,11 +11,11 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
 	<description>Somos expertos e innovadores en  impresión flexografica, principalmente en impresión de etiquetas adhesivas y termoencogibles</description>
-	<lastBuildDate>Thu, 13 Apr 2023 17:19:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 21 Nov 2023 19:26:46 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.1.4</generator>
 </channel>
 </rss>
